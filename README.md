@@ -4,3 +4,6 @@
 <p align="center">
   somnia - 22 - she/they/it
 </p>
+<p align="center">
+  no dni just don't be a weirdo!
+</p>
